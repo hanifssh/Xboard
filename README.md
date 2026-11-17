@@ -8,28 +8,6 @@
   <strong>A fast, lightweight, and modern Android board experience built for smooth performance.</strong>
 </p>
 
-<p>
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="Latest Release" />
-  </a>
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="Total Downloads" />
-  </a>
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="GitHub Stars" />
-  </a>
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="Open Issues" />
-  </a>
-</p>
-
-<p>
-  <a href="#-installation">Installation</a> •
-  <a href="#-features">Features</a> •
-  <a href="#-screenshots">Screenshots</a> •
-  <a href="#-support">Support</a>
-</p>
-
 </div>
 
 ---
@@ -68,12 +46,7 @@
 
 ---
 
-## 🤝 Contributing & Support
-
-Found a bug or have a feature idea?
-* 🐛 **[Report an Issue](https://github.com/new)**
-* 💡 **[Request a Feature](https://github.com/new)**
-* ⭐ **Star this repository** if you find XBoard useful!
+## * ⭐ **Star this repository** if you find XBoard useful!
 
 ---
 
