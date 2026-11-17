@@ -46,7 +46,7 @@
 
 ---
 
-## * ⭐ **Star this repository** if you find XBoard useful!
+##  ⭐ **Star this repository** if you find XBoard useful!
 
 ---
 
